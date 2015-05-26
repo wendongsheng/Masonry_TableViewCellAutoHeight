@@ -1,0 +1,4 @@
+# Masonry_TableViewCellAutoHeight
+使用masonry来动态获得tableviewCell高度
+
+当tableViewCell的高度不固定时候，使用自动布局来布局页面。
